@@ -1,6 +1,6 @@
 # Power up with Azure Functions & .NET Core - Demo
 
-Repository responsible for the meetup event: **[Metro Toronto .NET User Group](https://aka.ms/AA6xcx9)**
+Repository responsible for the demos during the meetup event: **[Metro Toronto .NET User Group](https://aka.ms/AA6xcx9)**
 
 ## Resources/Tools Used 💻
 
@@ -45,13 +45,13 @@ If you are a student at a College or University, you can create your [Azure for 
 }
 ```
 
-4. Now execute the command: (inside the folder: `FunctionApp` )
+4. Now execute the command: (inside in the folder: `FunctionApp` )
 
 ```bash
 > func host start
 ```
 
-This commando will generate a Endpoint api: `http://localhost:7071/api/Hello`
+This command will generate a Endpoint API: `http://localhost:7071/api/Hello`
 
 5. Now, go to the `BlazorApp` folder and execute the command:
 
