@@ -1,2 +1,3 @@
-# dotnet-toronto-meetup
-Repository
+# Power up with Azure Functions & .NET Core - Demo
+
+Repository 
