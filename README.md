@@ -1,10 +1,9 @@
 # Power up with Azure Functions & .NET Core - Demo
 
-Repository 
+Repository responsible for the meetup event: **[Metro Toronto .NET User Group](https://aka.ms/AA6xcx9)**
 
-## Resources/Tools Used 🚀
+## Resources/Tools Used 💻
 
-- **[Azure Account]()**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
@@ -14,7 +13,7 @@ Repository
 
 If you are a student at a College or University, you can create your [Azure for Students account](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dotnetmeetuptoronto-github-gllemos). This account will give you the benefit of having a $ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link [HERE](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dotnetmeetuptoronto-github-gllemos).
 
-## How to run the Application locally? 🔥
+## How to run the Application locally? 🚀
 
 <To be do it!>
 
