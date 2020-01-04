@@ -4,7 +4,9 @@ Repository responsible for the meetup event: **[Metro Toronto .NET User Group](h
 
 ## Resources/Tools Used 💻
 
+- **[.NET Core 3.x](https://dotnet.microsoft.com/download?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
+- **[C# Extension - Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 - **[Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
@@ -15,7 +17,20 @@ If you are a student at a College or University, you can create your [Azure for 
 
 ## How to run the Application locally? 🚀
 
-<To be do it!>
+1. Install the **[.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**.
+
+2. Install the **[.NET Core 3.1 or later (Preview) SDK](https://dotnet.microsoft.com/download?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**.
+
+3. Run the following command in a command shell. The **[Microsoft.AspNetCore.Blazor.Templates](https://www.nuget.org/packages/Microsoft.AspNetCore.Blazor.Templates/)** package has a preview version while Blazor WebAssembly is in preview.
+
+4. Install Blazor in your machine as follow below: 
+
+```bash
+> dotnet new -i Microsoft.AspNetCore.Blazor.Templates::3.1.0-preview4.19579.2
+```
+
+2. 
+
 
 ## Next Steps 🏃
 
@@ -31,6 +46,7 @@ Learn more about serverless with a Free Training!
 -   ✅ **[Introduction to ASP.NET Core Blazor](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-3.1&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 -   ✅ **[Host and deploy ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/?view=aspnetcore-3.0&wt.mc_id=dotnetmeetuptoronto-github-gllemos)**
 -   ✅ **[Blazor for ASP.NET Web Forms Developers](https://docs.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/?wt.mc_id=dotnetmeetuptoronto-github-gllemos)**
+-   ✅ **[Announcing .NET Core 3.0](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 
 ## Questions? Comments? ❓
 

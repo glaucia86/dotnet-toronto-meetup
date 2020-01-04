@@ -1,0 +1,22 @@
+@page "/functions"
+@inject HttpClient Http
+
+<h1>Azure Function Data</h1>
+
+@if (message == null)
+{
+    <p><em>Loading...</em></p>
+} 
+else 
+{
+    <p>The message is: @message</p>
+}
+
+@functions {
+    string message;
+
+    protected override async Task OnInitializedAsync()
+    {
+        message = await Http.GetStringAsync("http://localhost:7071/api/Hello");
+    }
+}
