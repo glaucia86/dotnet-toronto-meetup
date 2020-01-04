@@ -29,8 +29,37 @@ If you are a student at a College or University, you can create your [Azure for 
 > dotnet new -i Microsoft.AspNetCore.Blazor.Templates::3.1.0-preview4.19579.2
 ```
 
-2. 
+3. Now go to the `FunctionApp` and create a file called `local.settings.json`. Include the code below:
 
+```json
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    },
+    "Host": {
+      "LocalHttpPort": 7071,
+      "CORS": "*"
+    }
+}
+```
+
+4. Now execute the command: (inside the folder: `FunctionApp` )
+
+```bash
+> func host start
+```
+
+This commando will generate a Endpoint api: `http://localhost:7071/api/Hello`
+
+5. Now, go to the `BlazorApp` folder and execute the command:
+
+```bash
+> dotnet run
+```
+
+And vòilá! The application will be running correctly!
 
 ## Next Steps 🏃
 
