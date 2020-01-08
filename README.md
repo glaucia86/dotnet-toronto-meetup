@@ -1,5 +1,7 @@
 # Power up with Azure Functions & .NET Core - Demo
 
+[![Dot-Net-Bot-Bit.png](https://i.postimg.cc/fTw454HR/Dot-Net-Bot-Bit.png)](https://postimg.cc/t7mmCcQK)
+
 Repository responsible for the demos during the meetup event: **[Metro Toronto .NET User Group](https://aka.ms/AA6xcx9)**
 
 ## Resources/Tools Used 💻
