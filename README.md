@@ -69,6 +69,8 @@ Learn more about serverless with a Free Training!
 
 -   ✅ **[Serverless Free Courses](https://docs.microsoft.com/learn/browse/?term=azure%20functions&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
 
+- **[Free Courses - .NET Core C# ](https://docs.microsoft.com/learn/browse/?products=dotnet&WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
+
 ## Important Resources ⭐️
 
 -   ✅ **[Azure Functions documentation](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=dotnetmeetuptoronto-github-gllemos)**
