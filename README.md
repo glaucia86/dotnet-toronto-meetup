@@ -69,6 +69,7 @@ Learn more about serverless with a Free Training!
 
 - ✅ **[Serverless Free Courses](https://docs.microsoft.com/learn/browse/?term=azure functions&WT.mc_id=javascript-0000-gllemos)**
 
+
 - ✅ **[Free Courses - .NET Core C# ](https://docs.microsoft.com/learn/browse/?products=dotnet&WT.mc_id=javascript-0000-gllemos)**
 
 ## Important Resources ⭐️
